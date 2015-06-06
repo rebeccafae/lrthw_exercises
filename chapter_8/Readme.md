@@ -7,5 +7,5 @@ I like string interpolation better. I am sure formatting would come in handy for
 
 - Use single quotes
 - Spaces inside {}
-- Line 6 too long
+- Line 6 too long (before comments were added)
 - Use 2 spaces for indentation in a hash
