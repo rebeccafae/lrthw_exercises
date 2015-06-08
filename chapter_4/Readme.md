@@ -8,7 +8,7 @@ Study Drills Questions:
 
 > 1) I used 4.0 for space_in_a_car, but is that necessary? What happens if it's just 4?
 
-4.0 is not necessary here since the answer t the equation is a whole number. 
+4.0 is not necessary here since the answer to the equation is a whole number. 
 If it's just 4, then the answer will return a whole number(120) instead of a floating point (120.0). 
 So the sentence would read "We can transport 120 people today."
 
